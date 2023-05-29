@@ -6,7 +6,7 @@
   </li>
 </template>
 
-<script>
+<script lang="js">
 export default {
   props: ['id', 'topicName', 'description'],
   emits: ['select-topic'],
