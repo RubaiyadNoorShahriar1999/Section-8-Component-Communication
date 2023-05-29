@@ -8,6 +8,7 @@ Section 8 contains:
         3. Custom events ($emit()) - Emitting, Defining, Validating
         4. Uni-directional and Bi-directional data flow
         5. Provide and Inject use cases using a demo project
+        6. Prop drilling with Provide and Inject
         
 
 <h2>To run this project</h2>
