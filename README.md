@@ -3,7 +3,11 @@ Component Communication
 
 Section 8 contains:
 
-        1. Running...
+        1. Props - Behavior, Changings, Validating
+        2. Dynamic prop binding
+        3. Custom events ($emit()) - Emitting, Defining, Validating
+        4. Uni-directional and Bi-directional data flow
+        
 
 <h2>To run this project</h2>
 
