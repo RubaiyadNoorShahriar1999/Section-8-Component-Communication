@@ -15,5 +15,5 @@ Section 8 contains:
 
     1. Download the zip/ clone the repository
     2. Open with an IDE (Visual Studio Code recommended)
-    3. Open terminal in VS Code and run - npm install
+    3. Open terminal in VS Code and run - npm install --> npm run serve
     4. Copy the server localhost link and open it in a browser/ ctrl + right click on the link
